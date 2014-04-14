@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CONCRETE/CONCRETEFLOOR033B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_richland/c902_363_249"
+	}
+}

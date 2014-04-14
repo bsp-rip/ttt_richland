@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/MAPS/DM_RICHS_APT2/BATHROOMTILE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_richland/c-742_79_89"
+	}
+}

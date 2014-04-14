@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/GLASS/GLASSWINDOW037C.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_richland/c-284_1411_153"
+	}
+}

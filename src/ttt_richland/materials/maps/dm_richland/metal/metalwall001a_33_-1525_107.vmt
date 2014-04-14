@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALWALL001A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_richland/c33_-1525_107"
+	}
+}

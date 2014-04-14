@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/dm_richland/nature/water_canals_water2_517_79_213.vmt"
+	"insert"
+	{
+		"$waterdepth"		"17"
+	}
+}

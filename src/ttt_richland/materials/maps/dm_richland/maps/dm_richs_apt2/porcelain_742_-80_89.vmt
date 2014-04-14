@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/MAPS/DM_RICHS_APT2/PORCELAIN.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_richland/c742_-80_89"
+	}
+}

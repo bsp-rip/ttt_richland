@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PLASTER/PLASTERWALL030C.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_richland/c36_1937_153"
+	}
+}

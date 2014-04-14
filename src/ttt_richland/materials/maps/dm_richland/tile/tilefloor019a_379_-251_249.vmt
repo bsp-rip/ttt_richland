@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILEFLOOR019A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_richland/c379_-251_249"
+	}
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/dm_richland/nature/sewer_waterdarkfog2_788_-1120_-76.vmt"
+	"insert"
+	{
+		"$waterdepth"		"8"
+	}
+}

@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/SEWER_WATERDARKFOG2.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_richland/c788_-1120_-76"
+		"Proxies"
+		{
+		}
+	}
+}
